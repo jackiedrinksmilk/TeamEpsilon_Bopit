@@ -1,3 +1,5 @@
+// Rachel Solak (Assignment #14)
+
 #define LED1 13
 
 // the setup function runs once when you press reset or power the board

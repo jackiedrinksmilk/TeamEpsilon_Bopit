@@ -1,4 +1,5 @@
 // Rachel Solak (Assignment #14)
+// Daniel J. Gross (Assignment #14)
 
 #define LED1 13
 
